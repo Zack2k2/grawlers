@@ -18,7 +18,7 @@ def check_link(url):
 
 def main():
 
-
+    print("Hello from master branch!!")
     # Initialize the parser
     parser = argparse.ArgumentParser(description="Scrape a website and save the output")
 
